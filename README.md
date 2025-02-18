@@ -11,8 +11,8 @@ This project aims to analyze retail sales data to uncover actionable insights in
 3.	How do sales vary by region or store location, and which markets show the highest potential?
 4.	Which products or categories yield the highest revenue and profit margins?
 5.	What seasonal or trend-based patterns can be identified in the sales data?
--	Dashboard Interaction
--	<a href="https://github.com/KIHIKOD/Retail-Sales-Data-Analyis/blob/a1f0825ee57477288dc87fce4850e2253eddb102/Screenshot%202025-02-17%20060024.jpg">Dataset</a>
+   
+-	Dashboard Interaction <a href="https://github.com/KIHIKOD/Retail-Sales-Data-Analyis/blob/a1f0825ee57477288dc87fce4850e2253eddb102/Screenshot%202025-02-17%20060024.jpg">View Dashboard</a>
 
 ## Process Taken to Build the Excel Project
 -	Imported raw data from multiple sources (e.g., Excel, CSV) into Power BI.
