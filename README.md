@@ -14,7 +14,7 @@ This project aims to analyze retail sales data to uncover actionable insights in
    
 -	Dashboard Interaction <a href="https://github.com/KIHIKOD/Retail-Sales-Data-Analyis/blob/a1f0825ee57477288dc87fce4850e2253eddb102/Screenshot%202025-02-17%20060024.jpg">View Dashboard</a>
 
-## Process Taken to Build the Excel Project
+## Process Taken to Build the PowerBI Project
 -	Imported raw data from multiple sources (e.g., Excel, CSV) into Power BI.
 -	Integrated data from various tables including sales transactions, customer details, and product information into a unified data model.
 -	Utilized Power Query to clean and preprocess the data by handling missing values, standardizing formats, and creating calculated fields.
